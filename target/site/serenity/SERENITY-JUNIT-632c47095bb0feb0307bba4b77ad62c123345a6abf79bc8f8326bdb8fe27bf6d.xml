@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Plataforma de Transferencia Bancaria" skipped="0" tests="1" time="180.75" timestamp="2020-04-19 04:01:01"><testcase name="Visualizar resumenes enviados"><failure message="&#10;Expected: an element that is visible&#10;     but: no matching element found by id: mat-expansion-panel-header-2" type="java.lang.AssertionError">
+Expected: an element that is visible
+     but: no matching element found by id: mat-expansion-panel-header-2</failure><system-err>
+Expected: an element that is visible
+     but: no matching element found by id: mat-expansion-panel-header-2&#13;
+co.com.proyectobase.screenplay.tasks.AccederA.performAs(AccederA.java:21)&#13;
+pa.com.ptb.wfu.stepdefinitions.PlataformaTransferenciaBancariaStepDefinitions.lograrIngresarALaOpcionVisualizarResumenesEnviados(PlataformaTransferenciaBancariaStepDefinitions.java:37)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>
